@@ -1,2 +1,2 @@
 # DEMO_Git
-Demo Git fot learning
+Demo Git for learning
